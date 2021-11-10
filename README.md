@@ -7,3 +7,9 @@
     <img src="https://github-profile-trophy.vercel.app/?username=brdly&theme=flat" alt="brdly"/>
   </a>
 </p>
+
+<p align="center">
+  💻 Studio Skylab<br/>
+  📫 connect@brdly.io<br/>
+  😄 He/They
+</p>
