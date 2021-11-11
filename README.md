@@ -10,6 +10,6 @@
 
 <p align="center">
   💻 Studio Skylab<br/>
-  📫 connect@brdly.io<br/>
+  📫 hello@brdly.io<br/>
   😄 He/They
 </p>
