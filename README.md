@@ -3,7 +3,7 @@
 <h4 align="center">I'm a Full Stack Web Developer from Manchester</h4>
 
 <p align="center">
-  💻 Studio Skylab<br/>
+  💻 Skylab<br/>
   📫 hello@brdly.io<br/>
   😄 He/They
 </p>
