@@ -2,7 +2,7 @@
 <h4 align="center">(He/They)</h4>
 
 <p align="center">
-I'm a Full Stack Web Developer from Manchester.
+I'm a Full Stack Web Developer from Salford.
 
 I currently work for Skylab whom I joined in November 2021 and have worked with some awesome clients using a mix of vanilla JavaScript, VueJS and AlpineJS alongside backend coding using PHP with Laravel.
 
