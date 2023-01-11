@@ -6,6 +6,6 @@ I'm a Full Stack Web Developer from Salford.
 </p>
 
 <p align="center">
-  💻 Airtime rewards<br/>
+  💻 Airtime Rewards<br/>
   📫 hello@brdly.io<br/>
 </p>
