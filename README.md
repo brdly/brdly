@@ -11,7 +11,7 @@
 <h4 align="center">(He/They)</h4>
 
 <p align="center">
-  Frontend Engineer at Airtime Rewards<br/>
+  Senior Full Stack Engineer at Melbec Microbiology<br/>
   hello@brdly.io<br/>
 </p>
 
