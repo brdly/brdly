@@ -8,7 +8,7 @@
   </a>
 </div>
 <h3 align="center">Hi 👋<br>I'm George</h3>
-<h4 align="center">(He/They)</h4>
+<h4 align="center">(he/they)</h4>
 
 <p align="center">
   Senior Full Stack Engineer at Melbec Microbiology<br/>
