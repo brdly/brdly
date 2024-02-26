@@ -3,7 +3,7 @@
     <img
       width="256"
       align="right"
-      src="https://raw.githubusercontent.com/brdly/brdly/devcard/devcard.svg"
+      src="https://raw.githubusercontent.com/brdly/brdly/devcard/devcard.png"
     />
   </a>
 </div>
