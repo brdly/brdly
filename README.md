@@ -1,12 +1,10 @@
-<div align="left">
-  <a href="https://api.daily.dev/get?r=brdly" target="_blank">
-    <img
-      width="256"
-      align="right"
-      src="https://raw.githubusercontent.com/brdly/brdly/devcard/devcard.png"
-    />
-  </a>
-</div>
+<a href="https://api.daily.dev/get?r=brdly" target="_blank">
+  <img
+    width="256"
+    align="right"
+    src="https://raw.githubusercontent.com/brdly/brdly/devcard/devcard.png"
+  />
+</a>
 <h3 align="center">Hi 👋<br>I'm George</h3>
 <h4 align="center">(he/they)</h4>
 
@@ -15,3 +13,6 @@
   hello@brdly.io<br/>
 </p>
 
+<p align="center">
+  <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=georgewb13&cover_image=false&theme=novatorem&show_offline=true&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=true">
+</p>
