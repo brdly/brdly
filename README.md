@@ -12,7 +12,3 @@
   Senior Full Stack Engineer at Melbec Microbiology<br/>
   hello@brdly.io<br/>
 </p>
-
-<p align="center">
-  <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=georgewb13&cover_image=false&theme=novatorem&show_offline=true&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=true">
-</p>
